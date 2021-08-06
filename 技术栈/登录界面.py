@@ -1,0 +1,8 @@
+# 通过id定位元素：find_element_by_id("id_vaule")
+# 通过name定位元素：find_element_by_name("name_vaule")
+# 通过tag_name定位元素：find_element_by_tag_name("tag_name_vaule")
+# 通过class_name定位元素：find_element_by_class_name("class_name")
+# 通过css定位元素：find_element_by_css_selector()
+# 通过xpath定位元素：find_element_by_xpath("xpath")
+# 通过link：find_element_by_link_text("text_vaule")
+# 通过find_element_by_partial_link_text()
